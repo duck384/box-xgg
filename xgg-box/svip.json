@@ -1,5 +1,5 @@
 {
-    "spider": "./svip.jar",
+    "spider": "https://ghfast.top/https://raw.githubusercontent.com/duck384/box-xgg/refs/heads/main/xgg-box/svip.jar",
     "wallpaper": "https://sgmao.serv00.net/image/",
     "logo": "./logo.gif",
     "sites": [
@@ -3110,4 +3110,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
